@@ -1,0 +1,51 @@
+.centered {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.container {
+    text-align: center;
+}
+.services{
+    position: relative;
+        display: inline-block;
+        text-align: center;
+}
+.services .servicesoverlay {
+    position: absolute;
+        z-index: 999;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        top: 40%; 
+        text-align: center;
+        width: 60%;
+        color: white;
+}
+
+.container-fluid {
+    position: relative;
+        display: inline-block;
+        text-align: center;
+}
+.container-fluid .formoverimage {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%; 
+    width: 60%;
+    color: white;
+    }
+
+    input {
+        background-color: transparent;
+    }
+
+    footer {
+text-align: center;
+    }
