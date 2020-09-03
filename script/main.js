@@ -9,9 +9,9 @@ $(document).ready(function(){
     });
   });
   $(document).ready(function(){
-    $("#design-image").click(function(){
+    $("#design-image").hover (function(){
       $("#design-image").slideDown('1500').hide('1000');
-      $("#design").show('1500');
+      $("#middle").show('1500');
     });
     $("#design").click(function(){
       $("#design").slideUp('1500');

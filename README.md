@@ -16,5 +16,7 @@ CSS
 kararicw@gmail.com
 
 ### License
-MIT
-Copyright (c) {2020} Arrabonafrica.co.ke
+
+<a href="https://github.com/CKarari/DelaniStudio_CK/blob/master/LICENSE">
+
+Copyright (c) 2020 Karari Charles
