@@ -50,6 +50,14 @@
 text-align: center;
     }
 
+    #mouse-hover1{
+      display: none;
+      position: absolute;
+      margin-top: 40px;
+      margin-left:40px;
+      color: white;
+    }
+
     /* .col-md-4 {
         position: relative;
         width: 50%;

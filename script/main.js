@@ -30,10 +30,10 @@ $(document).ready(function () {
   });
 });
 $(document).ready(function () {
-  $("#work1").mouseover(function () {
-    $("#overlay").show();
+  $("#work1").hover(function () {
+    $("#mouse-hover1").toggle();
   }).mouseout(function () {
-    $("#overlay").hide();
+    $("#mouse-hover1").hide();
   });
 });
 $(document).ready(function () {
