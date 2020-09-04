@@ -30,53 +30,53 @@ $(document).ready(function () {
   });
 });
 $(document).ready(function () {
-  $("#work1").hover(function () {
-    $("#mouse-hover1").toggle();
+  $("#work1").mouseover(function () {
+    $("#mouse-hover1").show();
   }).mouseout(function () {
     $("#mouse-hover1").hide();
   });
 });
 $(document).ready(function () {
   $("#work2").mouseover(function () {
-    $("#overlay2").show();
+    $("#mouse-hover2").show();
   }).mouseout(function () {
-    $("#overlay2").hide();
+    $("#mouse-hover2").hide();
   });
 });
 $(document).ready(function () {
   $("#work3").mouseover(function () {
-    $("#overlay3").show();
+    $("#mouse-hover3").show();
   }).mouseout(function () {
-    $("#overlay3").hide();
+    $("#mouse-hover3").hide();
   });
 });
 $(document).ready(function () {
   $("#work4").mouseover(function () {
-    $("#overlay4").show();
+    $("#mouse-hover4").show();
   }).mouseout(function () {
-    $("#overlay4").hide();
+    $("#mouse-hover4").hide();
   });
 });
 $(document).ready(function () {
   $("#work5").mouseover(function () {
-    $("#overlay5").show();
+    $("#mouse-hover5").show();
   }).mouseout(function () {
-    $("#overlay5").hide();
+    $("#mouse-hover5").hide();
   });
   $("#work6").mouseover(function () {
-    $("#overlay6").show();
+    $("#mouse-hover6").show();
   }).mouseout(function () {
-    $("#overlay6").hide();
+    $("#mouse-hover6").hide();
   });
   $("#work7").mouseover(function () {
-    $("#overlay7").show();
+    $("#mouse-hover7").show();
   }).mouseout(function () {
-    $("#overlay7").hide();
+    $("#mouse-hover7").hide();
   });
   $("#work8").mouseover(function () {
-    $("#overlay8").show();
+    $("#mouse-hover8").show();
   }).mouseout(function () {
-    $("#overlay8").hide();
+    $("#mouse-hover8").hide();
   });
 });
 
